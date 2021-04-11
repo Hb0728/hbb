@@ -20,5 +20,6 @@ export default {
 <style lang="scss" scoped>
 .home{
   background-color: black;
+  border: 1px solid red;
 }
 </style>
